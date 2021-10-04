@@ -10,4 +10,4 @@ PHP Streaming Apis
 
 # Description
     API For Albanian Streaming only
-    Get from ekranet.com - livestream.ekranet.com
+    Get from ekranet.com - livestream.ekranet.com - websocket.ekranet.com
